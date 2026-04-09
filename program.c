@@ -6,6 +6,6 @@ int main()
 
 printf("Zdravo sveta\n");
 scanf_s(".................");
-  p=a*b;
+  p=a*a+b*b;
 return 0;
 }
